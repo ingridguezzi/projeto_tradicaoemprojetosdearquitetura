@@ -1,5 +1,5 @@
 # projeto_tradicaoemprojetosdearquitetura
-Projeto criado para Escola DNC - Criação de uma Landing Page a partir de projeto no Figma.  
+Primeiro projeto criado no Curso de Desenvolvimento Full Stack da Escola DNC - Criação de uma Landing Page a partir do projeto disponibilizado no Figma.  
 Link do site disponibilizado: https://tradicaoemprojetosdearquitetura.netlify.app/  
 Link da planilha de registro de informação: https://docs.google.com/spreadsheets/d/1hW4K2QeELLYCsSaPMGmPsp7_HXJv-ep4ciC5mReCI8U/edit?usp=sharing    
   
